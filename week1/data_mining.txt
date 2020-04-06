@@ -1,0 +1,6 @@
+Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
+It is an essential process where intelligent methods are applied to extract data patterns.
+It is an interdisciplinary subfield of computer science.
+The overall goal of the data mining process is to extract information from a data set and transform it into an understandable structure for further use.
+Aside from the raw analysis step, it involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.
+Data mining is the analysis step of the knowledge discovery in databases process, or KDD.
